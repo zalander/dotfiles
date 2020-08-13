@@ -1,0 +1,13 @@
+browser "vimb %u"
+bind-key j down
+bind-key k up
+bind-key J next-feed
+bind-key K prev-feed
+bind-key s sort
+bind-key g home
+bind-key G end
+max-downloads 5
+download-path "/home/Downloads/."
+player mp
+macro y set browser "mpv %u"; open-in-browser ; set browser "elinks %u"
+macro a set browser "mpv --no-video %u"; open-in-browser ; set browser "elinks %u"
