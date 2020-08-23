@@ -1,1 +1,1 @@
-alias config='/usr/bin/git --git-dir=/root/dotfiles --work-tree=/root'
+alias config='/usr/bin/git --git-dir=/$HOME/dotfiles --work-tree=/$HOME'
