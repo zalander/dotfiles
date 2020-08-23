@@ -1,0 +1,3 @@
+[submodule ".vim/pack/xalander/start/syntax/haskell-vim"]
+	path = .vim/pack/xalander/start/syntax/haskell-vim
+	url = https://github.com/neovimhaskell/haskell-vim.git
