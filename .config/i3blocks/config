@@ -1,0 +1,6 @@
+# Update time every 5 seconds
+[time]
+command=date '+%D %T'
+interval=1
+color=#000000
+background=#2f9b85
