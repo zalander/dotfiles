@@ -7,3 +7,9 @@
 [submodule ".vim/pack/xalander/plugins/start/nerdtree"]
 	path = .vim/pack/xalander/plugins/start/nerdtree
 	url = https://github.com/preservim/nerdtree
+[submodule ".vim/pack/xalander/plugins/start/supertab"]
+	path = .vim/pack/xalander/plugins/start/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule ".vim/pack/xalander/plugins/start/tabular"]
+	path = .vim/pack/xalander/plugins/start/tabular
+	url = https://github.com/godlygeek/tabular.git
