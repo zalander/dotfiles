@@ -9,3 +9,6 @@ set expandtab
 set shiftwidth=2
 set softtabstop=2
 set tabstop=2
+set nu
+
+let g:ale_linters = {'haskell': ['hdevtools', 'hlint', 'stack_ghc']}
