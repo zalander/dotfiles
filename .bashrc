@@ -1,1 +1,6 @@
 alias config='/usr/bin/git --git-dir=/$HOME/dotfiles --work-tree=/$HOME'
+alias codem='cd CODE'
+alias haskm='cd HASK'
+alias leet='cd /home/pulo/code/leetcode/python/python-blueprint'
+alias docs='cd /home/pulo/diario/Worklogs'
+alias runpyth='python3 -m venv venv && source venv/bin/activate'
