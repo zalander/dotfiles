@@ -12,3 +12,5 @@ set tabstop=2
 set nu
 
 let g:ale_linters = {'haskell': ['hdevtools', 'hlint', 'stack_ghc']}
+autocmd vimenter * colorscheme gruvbox
+set background=dark
