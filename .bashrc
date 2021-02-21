@@ -1,3 +1,4 @@
+export HOME='/home/csiddha'
 alias config='/usr/bin/git --git-dir=/$HOME/dotfiles --work-tree=/$HOME'
 alias codem='cd CODE'
 alias haskm='cd HASK'
