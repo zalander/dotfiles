@@ -1,0 +1,11 @@
+.cfg
+.aws/
+.bash_history
+.bash_logout
+.cache/
+.ssh/
+.viminfo
+aws-cdk-examples/
+link-snapper
+oldbash
+oldbashprofile
