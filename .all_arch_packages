@@ -1,0 +1,10 @@
+base 2-2
+dhcpcd 9.4.0-1
+git 2.32.0-1
+grub 2:2.06-1
+i3-wm 4.19.2-1
+linux 5.12.14.arch1-1
+linux-firmware 20210511.7685cf4-1
+sudo 1.9.7.p1-1
+vim 8.2.2891-1
+xorg-xinit 1.4.1-3
